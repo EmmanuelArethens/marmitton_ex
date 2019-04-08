@@ -1,0 +1,27 @@
+{
+    "title": "Samoussas au poulet au curry",
+    "portion": 10,
+    "prepTime": 100,
+    "cookTime": 15,
+    "totalTime ": 40,
+    "ingredients": {
+        "poulet,g": 400,
+        "feuilles de brick,unit ": 10,
+        "oigon,unit": 1,
+        "pettit pois,spoon": 4,
+        "Curry, unit": 1,
+        "huile de cuisson,unit": 1,
+        "Sel,unit": 1,
+        "Poivre,unit": 1
+    },
+    "step": {
+        "1": "Couper finement l'oignon et le faire revenir dans deux cuill\u00e8res d'huile de cuisson (j'utilise de l'huile d'olive).",
+        "2": "D\u00e9couper les blancs de poulet en petits morceaux (je retire la graisse qui n'est pas agr\u00e9able sous la dent) et les ajouter \u00e0 l'oignon, sur feu moyen. ",
+        "3": "Saler, poivrer, et ajouter le curry (plus il y en a, meilleur ce sera !).",
+        "4": "Quand le poulet commence \u00e0 dorer, et que l'eau s'\u00e9vapore, ajouter les petits pois. ",
+        "5": "Pour le pliage, il y aura certainement un mod\u00e8le sur l'emballage des feuilles de brick, mais si ce n'est pas le cas, vous pouvez toujours innover en respectant cette r\u00e8gle simple, la garniture doit \u00eatre enferm\u00e9e dans la feuille de brick. Par exemple, mettre la garniture au centre et plier la feuille en carr\u00e9, ou encore en papillote... Laisser libre cours \u00e0 votre imagination ! ",
+        "6": "Pour la cuisson, placer vos brick sur une plaque recouverte de papier sulfuris\u00e9, et mettre au four 15 min thermostat 6 (180\u00b0C). ",
+        "7": "D\u00e9guster, c'est pr\u00eat ! "
+    },
+    "totalSteps": 7
+}

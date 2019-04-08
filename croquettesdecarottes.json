@@ -1,0 +1,29 @@
+{
+	"title" : "Croquettes de carottes",
+	
+	"portions" :4,
+	
+	"prepTime" : 10,
+	
+	"cookTime" : 3,
+	
+	"totalTime": 13,
+	
+	"ingredients": { "carottes" : 10, "poivron" : 1, "oeufs" : 3, "farine" : 3, "petit bouquet de persil" : 1,  "gousse dail" : 1 }, 
+
+		
+	"steps": ["Etape 1 : Pelez les carottes et rapez-les. Coupez le 1/2 poivron en petits dés.",
+	"Etape 2: Dans une sauteuse, faites revenir les carottes, les dés de poivrons et l'ail émincé. Quand le mélange est fondant (environ 10 min de cuisson à feu doux), versez-le dans un saladier.",
+	"Etape 3: Ajoutez les oeufs, le persil haché, la farine, salez et poivrez et mélangez",
+	"Etape 4: Avec deux cuillères à soupe, faites des petites boules du mélange et faites-les frire quelques instants de chaque côté dans une huile bien chaude.",
+	"Etape 5: Epongez-les et servez avec une salade verte."],
+	"totalSteps" : 5,
+
+	"unitValue": { 
+	"a": "unit",
+	"b": "spoon",
+	"c": "g",
+	"d": "ml"
+	}
+
+}
